@@ -1,1 +1,16 @@
-game_v3
+# Python cache
+__pycache__/
+*.pyc
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Редакторы
+.vscode/
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
